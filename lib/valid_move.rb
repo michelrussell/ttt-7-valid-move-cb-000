@@ -5,7 +5,6 @@ def valid_move? (board, position)
   else
     return false
   end
-  true
 end
 
 # re-define your #position_taken? method here, so that you can use it in the #valid_move? method above.
